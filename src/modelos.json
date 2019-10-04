@@ -1,0 +1,50 @@
+[
+    {
+        "nombre": "Kit 3D Hogar",
+        "codigo": "1",
+        "img":"http://www.spc-makeblock.es/wp-content/uploads/2016/07/Impresora-3D-Makeblock-mGiraffe-printer-90103_12.jpg",
+        "autor":"Carlo Giraldo",
+        "precio":"Gratis",
+        "calificacion":4,
+        "descargas":2500,
+        "fechaCreacion":"06-12-2018",
+        "categoria":"Arte"
+    },
+    
+    {
+        "nombre": "Torre Ajedrez",
+        "codigo": "2",
+        "img":"http://3.bp.blogspot.com/-wTO-dzjxPmg/TxjAyhkmYgI/AAAAAAAAAsk/hC-wx0vSWTY/s1600/Piezas+Cubify.jpg",
+        "autor":"Victor Garay",
+        "precio":"Gratis",
+        "calificacion":2,
+         "descargas":1000,
+        "fechaCreacion":"10-10-2018",
+         "categoria":"Juguetes"
+
+    },
+        {
+        "nombre": "Atenea",
+        "codigo": "3",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxb6zg2-cn3ByIeBR96t1hrdxD3zqEEoiBkNCAY6IFMD1hV8A",
+        "autor":"Victor Garay",
+        "precio":"5.50",
+        "calificacion":5 ,
+        "descargas":2000,
+        "fechaCreacion":"07-09-2018",
+         "categoria":"Juguetes"
+
+    },
+        {
+        "nombre": "Set Neo",
+        "codigo": "4",
+        "img":"https://pbs.twimg.com/profile_images/827591128681762822/JQd7QWYV_400x400.jpg",
+        "autor":"Victor Garay",
+        "precio":"6.70",
+        "calificacion":1,
+        "descargas":7000,
+        "fechaCreacion":"11-12-2018",
+        "categoria":"Miscelanea"
+
+    }
+]

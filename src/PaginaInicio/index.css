@@ -1,0 +1,98 @@
+.App {
+  text-align: center;
+}
+
+div.card {
+height: 750px;
+width: 600px;
+margin-top: 50px;
+
+}
+
+.CardText{
+  font-size: 120%;
+}
+.cardbody{
+  height: 100%;
+width: 100%;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #2E9AFE;
+  min-height: 15vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-weight:bold;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Carousel {
+  height: 100%;
+  padding: 0px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2E9AFE;
+    width: 38%;
+    margin: auto;
+}
+
+.barra
+{    background-color: #2E9AFE;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #0040FF;
+    color: white;
+
+}
+
+.Carousel
+{
+  float:none;
+
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+

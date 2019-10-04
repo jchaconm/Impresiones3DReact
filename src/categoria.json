@@ -1,0 +1,29 @@
+[{
+  "id":1,
+  "nombre":"Todos"
+},
+{
+  "id":2,
+  "nombre":"Arte"
+},
+{
+  "id":3,
+  "nombre":"Moda"
+},
+{
+  "id":4,
+  "nombre":"Dispositivos"
+},
+{
+  "id":5,
+  "nombre":"Miscelanea"
+},
+{
+  "id":6,
+  "nombre":"Herramienta"
+},
+{
+  "id":7,
+  "nombre":"Juguetes"
+}
+]

@@ -1,0 +1,23 @@
+{
+	"todos":[
+		{
+			"title":"imprecion de plastoco",
+			"responbable":"Mark",
+			"descripcion":"descripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripcion",
+			"pryoridad":"baja"
+		},
+		{
+			"title":"piesas de placctico",
+			"responbable":"tom",
+			"descripcion":"descripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripcion",
+			"pryoridad":"madia"
+		},
+		{
+			"title":"refaciones de plastico de arduino",
+			"responbable":"jerry",
+			"descripcion":"descripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripciondescripcion",
+			"pryoridad":"olta"
+		}
+	]
+
+}

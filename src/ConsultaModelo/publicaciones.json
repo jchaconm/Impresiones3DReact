@@ -1,0 +1,54 @@
+ [
+    {
+      "idPublicacion": 1,
+      "noPublicacion": "mi primera protesis",
+      "noDescripcion": "elaborando un dedo",
+      "ilActivo": true,
+      "fePublicacion": "2018-11-26T05:00:00.000+0000",
+      "nuLargo": "3.2",
+      "nuAncho": "3.7",
+      "nuAlto": "3.0",
+      "nuPuntuacion": "4.8",
+      "noCategoria": "creación",
+      "idCanal": 1
+    },
+    {
+      "idPublicacion": 4,
+      "noPublicacion": "daredevil",
+      "noDescripcion": "muñeco de accion",
+      "ilActivo": true,
+      "fePublicacion": "2018-12-20T05:00:00.000+0000",
+      "nuLargo": "3.2",
+      "nuAncho": "3.5",
+      "nuAlto": "4.0",
+      "nuPuntuacion": "4.0",
+      "noCategoria": "moro",
+      "idCanal": 1
+    },
+    {
+      "idPublicacion": 2,
+      "noPublicacion": "spider-man",
+      "noDescripcion": "wuwuwu",
+      "ilActivo": true,
+      "fePublicacion": "2018-11-26T05:00:00.000+0000",
+      "nuLargo": "4.55",
+      "nuAncho": "3.45",
+      "nuAlto": "6.7",
+      "nuPuntuacion": "5.6",
+      "noCategoria": "moro",
+      "idCanal": 1
+    },
+    {
+      "idPublicacion": 3,
+      "noPublicacion": "batman",
+      "noDescripcion": "jol",
+      "ilActivo": true,
+      "fePublicacion": "2018-11-26T05:00:00.000+0000",
+      "nuLargo": "7.6",
+      "nuAncho": "9.0",
+      "nuAlto": "6",
+      "nuPuntuacion": "5",
+      "noCategoria": "moro",
+      "idCanal": 1
+    }
+ ]
